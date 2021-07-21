@@ -80,10 +80,10 @@ It was originally built simply by using a stack of **regular expressions** execu
 
 ## 3. Technologies Used
 
-- **`Python 3.9.4`**, compatible with `Python 2.7` and above
-- **`datetime`** integrated module to work with date and time
-- **`re`** integrated regular expression operations module
-- **`os`** a portable way of using operating system dependent functionality
+* **`Python 3.9.4`**, compatible with `Python 2.7` and above
+* **`datetime`** integrated module to work with date and time
+* **`re`** integrated regular expression operations module
+* **`os`** a portable way of using operating system dependent functionality
 
 ## 4. Installation
 
