@@ -1,5 +1,13 @@
 # Text to Subtitles - Python
 
+This is a fork of the original project from [DmytroNorth](https://github.com/DmytroNorth/Text_To_Subtitles-Python).
+
+I tried to make it more pythonic and more easily importable as a module.
+
+This project can be easily implemented into and enhanced by the library [srt](https://github.com/cdown/srt).
+
+---
+
 ![main2](png/main2.png)
 
 This python file **creates subtitles of a given length** from **text paragraphs** that can be easily imported into any **Video Editing software** such as FinalCut Pro for further adjustments.

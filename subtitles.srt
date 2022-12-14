@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:01,000
+Call me Ishmael.
+
+2
+00:00:01,000 --> 00:00:02,000
+Some years ago,
+never mind how long precisely,
+
+3
+00:00:02,000 --> 00:00:03,000
+having little or no money in my purse,
+and nothing particular
+
+4
+00:00:03,000 --> 00:00:04,000
+to interest me on shore,
+I thought I would sail about a little
+
+5
+00:00:04,000 --> 00:00:05,000
+and see the watery part of the world.
+
