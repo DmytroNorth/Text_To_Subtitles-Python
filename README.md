@@ -6,6 +6,12 @@ I tried to make it more pythonic and more easily importable as a module.
 
 This project can be easily implemented into and enhanced by the library [srt](https://github.com/cdown/srt).
 
+Example usage:
+
+```
+python main.py 'path/to/text.txt' 'name_of_subtitle_file.srt'
+```
+
 ---
 
 ![main2](png/main2.png)
